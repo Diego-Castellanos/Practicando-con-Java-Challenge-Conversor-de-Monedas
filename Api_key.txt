@@ -1,0 +1,2 @@
+Su clave API: 7f21c6da7885325d0e231d11
+Ejemplo de solicitud: https://v6.exchangerate-api.com/v6/7f21c6da7885325d0e231d11/latest/USD
