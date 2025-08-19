@@ -70,7 +70,7 @@ Ejecuta el método `main` de la clase principal. Se cargará el menú interactiv
 1. Selecciona una opción del menú ingresando el número correspondiente.
 2. Ingresa la cantidad que deseas convertir cuando se te solicite.
 3. El programa calculará y mostrará el valor convertido según las tasas de cambio actuales.
-4. Puedes realizar más conversiones o salir seleccionando la opción **7. Salir**.
+4. Puedes realizar más conversiones o salir seleccionando la opción **9. Salir**.
 
 ---
 
